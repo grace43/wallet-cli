@@ -1,4 +1,6 @@
-# wallet-cli [![Build Status](https://travis-ci.org/tronprotocol/wallet-cli.svg?branch=master)](https://travis-ci.org/tronprotocol/wallet-cli)
+# DEPRECATED:wallet-cli [![Build Status](https://travis-ci.org/tronprotocol/wallet-cli.svg?branch=master)](https://travis-ci.org/tronprotocol/wallet-cli)
+
+This repository has been deprecated because of it being a forked lib.
 
 Welcome to use the Wallet-CLI.  
 
